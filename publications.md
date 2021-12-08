@@ -8,6 +8,7 @@ profile](https://scholar.google.com/citations?user=n6wJfqUAAAAJ&hl=en&oi=ao)
 **2022**
 - Adapting Document-Grounded Dialog Systems to Spoken Conversations using Data Augmentation and a Noisy Channel Model <br/>
   David Thulke<sup>*</sup>, **Nico Daheim**<sup>*</sup>, Christian Dugast, Hermann Ney <br/>
+  _Workshop on DSTC9, AAAI 2021_ <br/>
   <sup>*</sup>Equal contribution.
 
 **2021**
