@@ -6,9 +6,17 @@ layout: page
 profile](https://scholar.google.com/citations?user=n6wJfqUAAAAJ&hl=en&oi=ao)
 
 **2022**
+- Controllable Factuality in Document-Grounded Dialog Using a Noisy Channel Model <br/>
+  Nico Daheim, David Thulke, Christian Dugast, Hermann Ney <br/>
+  _EMNLP Findings 2022_ [[pdf]](https://arxiv.org/pdf/2112.08844.pdf) [[code]](https://github.com/ndaheim/noisy_channel_model) <br/>
+  
+- Gemv2: Multilingual nlg benchmarking in a single line of code <br/>
+  Sebastian Gehrmann et al. <br/>
+  _EMNLP 2022_ [[pdf]](https://arxiv.org/pdf/2206.11249) <br/>
+
 - Adapting Document-Grounded Dialog Systems to Spoken Conversations using Data Augmentation and a Noisy Channel Model <br/>
   David Thulke<sup>*</sup>, **Nico Daheim**<sup>*</sup>, Christian Dugast, Hermann Ney <br/>
-  _Workshop on DSTC10, AAAI 2022_ [[pdf]](https://arxiv.org/pdf/2112.08844.pdf) [[code (will be released soon)]](https://github.com/dthulke/dstc10-track2) <br/>
+  _Workshop on DSTC10, AAAI 2022_ [[pdf]](https://arxiv.org/pdf/2112.08844.pdf) [[code]](https://github.com/dthulke/dstc10-track2) <br/>
   <sup>*</sup>Equal contribution.
 
 **2021**
