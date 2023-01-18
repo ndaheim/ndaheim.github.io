@@ -8,7 +8,7 @@ profile](https://scholar.google.com/citations?user=n6wJfqUAAAAJ&hl=en&oi=ao)
 **2022**
 - Controllable Factuality in Document-Grounded Dialog Using a Noisy Channel Model <br/>
   Nico Daheim, David Thulke, Christian Dugast, Hermann Ney <br/>
-  _EMNLP Findings 2022_ [[pdf]](https://arxiv.org/pdf/2112.08844.pdf) [[code]](https://github.com/ndaheim/noisy_channel_model) <br/>
+  _EMNLP Findings 2022_ [[pdf]](https://arxiv.org/pdf/2210.17418.pdf) [[code]](https://github.com/ndaheim/noisy_channel_model) <br/>
   
 - Gemv2: Multilingual nlg benchmarking in a single line of code <br/>
   Sebastian Gehrmann et al. <br/>
