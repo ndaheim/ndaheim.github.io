@@ -18,15 +18,3 @@ Currently, my research interests include the following topics:
   <li>Natural Language Generation & Decoding Strategies</li>
   <li>Dialog models in education</li>
 </ul>
-
-
-### Research Interests
-
-<ul>
-  <li>Large Language Models</li>
-  <li>Controlling & Adapting LLMs</li>
-  <li>Model Merging</li>
-  <li>Bayesian Deep Learning</li>
-  <li>Natural Language Generation & Decoding Strategies</li>
-  <li>Dialog models in education</li>
-</ul>
