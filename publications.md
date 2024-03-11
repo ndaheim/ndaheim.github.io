@@ -7,7 +7,7 @@ profile](https://scholar.google.com/citations?user=n6wJfqUAAAAJ&hl=en&oi=ao)
 
 **2024**
 - Socratic Reasoning Improves Positive Text Rewriting <br/>
-  Anmol Goel, Nico Daheim, Iryna Gurevych <br/>
+  Anmol Goel, **Nico Daheim**, Iryna Gurevych <br/>
   _preprint_ [[pdf]](https://arxiv.org/pdf/2403.03029v1.pdf) <br/>
   <sup>*</sup>Equal contribution.
 
