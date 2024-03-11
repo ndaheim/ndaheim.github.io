@@ -1,8 +1,10 @@
 ---
 layout: page
-title: About me
+title: Nico Daheim
 subtitle: ELLIS PhD student in NLP & ML
 ---
+
+Welcome to my personal page!
 
 I am currently an ELLIS PhD student supervised by Prof. Iryna Gurevych at [UKP Lab](www.ukp.tu-darmstadt.de), TU Darmstadt and Prof. Mrinmaya Sachan at [LRE](https://www.mrinmaya.io/), ETH Zürich. I also frequently collaborate with [Emtiyaz Khan](https://emtiyaz.github.io/) and [Thomas Möllenhoff](https://moellenh.github.io/) at RIKEN AIP.
 
@@ -19,14 +21,8 @@ Currently, my research interests include the following topics:
   <li>Dialog models in education</li>
 </ul>
 
+## News
 
-### Research Interests
+[02/24] Preprint on [Variational Learning for LLMs](https://arxiv.org/abs/2402.17641) on arXiv!
 
-<ul>
-  <li>Large Language Models</li>
-  <li>Controlling & Adapting LLMs</li>
-  <li>Model Merging</li>
-  <li>Bayesian Deep Learning</li>
-  <li>Natural Language Generation & Decoding Strategies</li>
-  <li>Dialog models in education</li>
-</ul>
+[01/24] Paper on [Model Merging by Uncertainty-Based Gradient Matching](https://openreview.net/pdf?id=D7KJmfEDQP) accepted at ICLR 2024. See you in Vienna!
