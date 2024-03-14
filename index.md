@@ -22,6 +22,7 @@ Currently, my research interests include the following topics:
 </ul>
 
 ## News
+[03/24] [Elastic Weight Removal for Faithful and Abstractive Dialogue Generation](https://openreview.net/pdf?id=40gP-CcDAEJI) accepted to NAACL 2024 main!
 
 [02/24] Preprint on [Variational Learning for LLMs](https://arxiv.org/abs/2402.17641) on arXiv!
 
