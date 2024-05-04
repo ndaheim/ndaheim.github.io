@@ -22,6 +22,8 @@ Currently, my research interests include the following topics:
 </ul>
 
 ## News
+[05/24] [Variational Learning is Effective for Large Deep Networks](https://arxiv.org/abs/2402.17641) accepted at ICML 2024!
+
 [03/24] [Elastic Weight Removal for Faithful and Abstractive Dialogue Generation](https://openreview.net/pdf?id=40gP-CcDAEJI) accepted to NAACL 2024 main!
 
 [02/24] Preprint on [Variational Learning for LLMs](https://arxiv.org/abs/2402.17641) on arXiv!
