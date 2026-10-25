@@ -38,7 +38,7 @@ _ICML 2026 (spotlight with oral presentation)_ [[pdf]](https://arxiv.org/pdf/251
 **2025**
 
 - From Problem-Solving to Teaching Problem-Solving: Aligning LLMs with Pedagogy using Reinforcement Learning <br/>
-David Dinucu-Jianu Jakub Macina Nico Daheim Ido Hakimi Iryna Gurevych Mrinmaya Sachan <br/>
+David Dinucu-Jianu Jakub Macina **Nico Daheim** Ido Hakimi Iryna Gurevych Mrinmaya Sachan <br/>
 _EMNLP 2025_ [[pdf]](https://aclanthology.org/2025.emnlp-main.15.pdf) <br/>
 
 - MathTutorBench: A Benchmark for Measuring Open-ended Pedagogical Capabilities of LLM Tutors <br/>
@@ -50,7 +50,7 @@ Daria Martynova, Jakub Macina, **Nico Daheim**, Özge Nilay Yalçın, Xiayu Zhan
     _BEA@ACL 2025_ [[pdf]](https://aclanthology.org/2025.bea-1.8.pdf) <br/>
 
 - Uncertainty-Aware Decoding with Minimum Bayes Risk <br/>
-    Nico Daheim, Clara Meister, Thomas Möllenhoff, Iryna Gurevych <br/>
+    **Nico Daheim**, Clara Meister, Thomas Möllenhoff, Iryna Gurevych <br/>
     _ICLR 2025_ [[pdf]](https://proceedings.iclr.cc/paper_files/paper/2025/file/1588dc2b2ef339d6e4c47d212e36f991-Paper-Conference.pdf) <br/>
 
 - Socratic Reasoning Improves Positive Text Rewriting <br/>
