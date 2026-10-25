@@ -14,7 +14,7 @@ author: Nico Daheim
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  # About Me: "aboutme"
   Publications: "publications"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"

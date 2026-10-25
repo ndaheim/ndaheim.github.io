@@ -2,19 +2,84 @@
 layout: page
 ---
 
-[Google Scholar
+For an up-to-date list, please check out my [Google Scholar
 profile](https://scholar.google.com/citations?user=n6wJfqUAAAAJ&hl=en&oi=ao)
 
-**2024**
+**2026**
+
+- Train for Many, Update with One: Improving Multi-Sample Reasoning via Fenchel-Bregman Posterior Learning <br/>
+Sungjun Lim, Adrian Robert Minut, **Nico Carlsen Daheim**, Mohammad Emtiyaz Khan, Kyungwoo Song, Thomas Möllenhoff <br/>
+_preprint_ [[pdf]](https://arxiv.org/pdf/2610.17735) <br/>
+
+- Parameter Exploration for RLVR via Variational Learning <br/>
+Vatsal Venkatkrishna, **Nico Daheim**, Iryna Gurevych <br/>
+_NeurIPS 2026_ [[pdf]](https://arxiv.org/pdf/2608.09805) <br/>
+
+- SOAP-Bubbles: Structured Weight Uncertainty for Neural Networks <br/>
+Adrian Minut, **Nico Daheim**, Marco Miani, Mohammad Emtiyaz Khan, Wu Lin, Thomas Möllenhoff <br/>
+_NeurIPS 2026_ [[pdf]](https://arxiv.org/pdf/2606.23357) <br/>
+
+- 'Your AI Text is not Mine': Redefining and Evaluating AI-generated Text Detection under Realistic Assumptions <br/>
+Nils Dycke, Marina Sakharova, **Nico Daheim**, Iryna Gurevych <br/>
+_preprint_ [[pdf]](https://arxiv.org/pdf/2606.04906) <br/>
+
+- Quantifying the Agreement Between Data-Influence and Data-Similarity to Understand LLM Behavior <br/>
+Cristopher Anders, Henrique da Silva Gameiro, **Nico Daheim**, Mohammad Emtiyaz Khan <br/>
+_preprint_ [[pdf]](https://arxiv.org/pdf/2606.23591) <br/>
+
+- Uncertainty-Aware Generation and Decision-Making Under Ambiguity <br/>
+**Nico Daheim**, Iryna Gurevych <br/>
+_preprint_ [[pdf]](https://arxiv.org/pdf/2606.30578) <br/>
+
+- SVRG and Beyond via Posterior Correction <br/>
+**Nico Daheim**, Thomas Möllenhoff, Ming Liang Ang, Mohammad Emtiyaz Khan <br/>
+_ICML 2026 (spotlight with oral presentation)_ [[pdf]](https://arxiv.org/pdf/2512.01930) <br/>
+
+**2025**
+
+- From Problem-Solving to Teaching Problem-Solving: Aligning LLMs with Pedagogy using Reinforcement Learning <br/>
+David Dinucu-Jianu Jakub Macina Nico Daheim Ido Hakimi Iryna Gurevych Mrinmaya Sachan <br/>
+_EMNLP 2025_ [[pdf]](https://aclanthology.org/2025.emnlp-main.15.pdf) <br/>
+
+- MathTutorBench: A Benchmark for Measuring Open-ended Pedagogical Capabilities of LLM Tutors <br/>
+    Jakub Macina, **Nico Daheim**, Ido Hakimi, Manu Kapur, Iryna Gurevych, Mrinmaya Sachan <br/>
+    _EMNLP 2025_ [[pdf]](https://aclanthology.org/2025.emnlp-main.11.pdf) <br/>
+
+- Can LLMs Effectively Simulate Human Learners? Teachers’ Insights from Tutoring LLM Students <br/>
+Daria Martynova, Jakub Macina, **Nico Daheim**, Özge Nilay Yalçın, Xiayu Zhang, Mrinmaya Sachan <br/>
+    _BEA@ACL 2025_ [[pdf]](https://aclanthology.org/2025.bea-1.8.pdf) <br/>
+
+- Uncertainty-Aware Decoding with Minimum Bayes Risk <br/>
+    Nico Daheim, Clara Meister, Thomas Möllenhoff, Iryna Gurevych <br/>
+    _ICLR 2025_ [[pdf]](https://proceedings.iclr.cc/paper_files/paper/2025/file/1588dc2b2ef339d6e4c47d212e36f991-Paper-Conference.pdf) <br/>
+
 - Socratic Reasoning Improves Positive Text Rewriting <br/>
   Anmol Goel, **Nico Daheim**, Iryna Gurevych <br/>
-  _preprint_ [[pdf]](https://arxiv.org/pdf/2403.03029v1.pdf) <br/>
-  <sup>*</sup>Equal contribution.
+  _CLPsych@NAACL 2025_ [[pdf]](https://arxiv.org/pdf/2403.03029v1.pdf) <br/>
+
+- Token Weighting for Long-Range Language Modeling <br/>
+    Falko Helm, **Nico Daheim**, Iryna Gurevych <br/>
+    _NAACL 2025_ [[pdf]](https://aclanthology.org/2025.findings-naacl.79.pdf) <br/>
+
+**2024**
+
+- 	Stepwise Verification and Remediation of Student Reasoning Errors with Large Language Model Tutors
+**Nico Daheim**, Jakub Macina, Manu Kapur, Iryna Gurevych, Mrinmaya Sachan
+_EMNLP 2024_ [[pdf]](https://aclanthology.org/2024.emnlp-main.478.pdf)
+
+- Variational low-rank adaptation using IVON <br/>
+    Bai Cong, **Nico Daheim**, Yuesong Shen, Daniel Cremers, Rio Yokota, Mohammad Emtiyaz Khan, Thomas Möllenhoff <br/>
+    _preprint_ [[pdf]](https://arxiv.org/pdf/2411.04421)
+
+- Book2Dial: Generating Teacher-Student Interactions from Textbooks for Cost-Effective Development of Educational Chatbots <br/>
+  Junling Wang, Jakub Macina, **Nico Daheim**, Sankalan Pal Chowdhury, Mrinmaya Sachan <br/>
+  _ACL Findings 2024_ [[pdf]](https://aclanthology.org/2024.findings-acl.578.pdf) <br/>
 
 - Variational Learning is Effective for Large Deep Networks <br/>
   Yuesong Shen<sup>*</sup>, **Nico Daheim**<sup>*</sup>, Bai Cong, Peter Nickl, Gian Maria Marconi, 
   Clement Bazan, Rio Yokota, Iryna Gurevych, Daniel Cremers, Mohammad Emtiyaz Khan, Thomas Möllenhoff <br/>
-  _preprint_ [[pdf]](https://arxiv.org/pdf/2402.17641.pdf) [[Code]](https://github.com/team-approx-bayes/ivon) <br/>
+  _ICML 2024_ (Spotlight) [[pdf]](https://arxiv.org/pdf/2402.17641.pdf) [[Code]](https://github.com/team-approx-bayes/ivon) <br/>
+  <sup>*</sup>Equal contribution.
 
 - Model Merging by Uncertainty-Based Gradient Matching <br/>
   **Nico Daheim**, Thomas Möllenhoff, Edoardo M. Ponti, Iryna Gurevych, Mohammad Emtiyaz Khan <br/>
