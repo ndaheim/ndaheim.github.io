@@ -21,3 +21,5 @@ Currently, my research interests include the following topics:
   <li>Novel architectures for efficient & adaptive computation</li>
   <li>LLM applications in education</li>
 </ul>
+
+You can find my current CV on [github](https://github.com/ndaheim/ndaheim.github.io/blob/master/cv.pdf) and [Google drive](https://drive.google.com/file/d/1P1cBR4uQYr2yzBN5NYvF00Xi2RcOM4bu/view).
