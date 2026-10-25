@@ -81,6 +81,10 @@ _EMNLP 2024_ [[pdf]](https://aclanthology.org/2024.emnlp-main.478.pdf)
   _ICML 2024_ (Spotlight) [[pdf]](https://arxiv.org/pdf/2402.17641.pdf) [[Code]](https://github.com/team-approx-bayes/ivon) <br/>
   <sup>*</sup>Equal contribution.
 
+- Elastic Weight Removal for Faithful and Abstractive Dialogue Generation <br/>
+  **Nico Daheim**, Nouha Dziri, Mrinmaya Sachan, Iryna Gurevych, Edoardo M. Ponti <br/>
+  _NAACL 2024_ [[pdf]](https://arxiv.org/pdf/2303.17574.pdf) [[code]](https://github.com/ndaheim/faithful-dialogue) <br/>
+
 - Model Merging by Uncertainty-Based Gradient Matching <br/>
   **Nico Daheim**, Thomas Möllenhoff, Edoardo M. Ponti, Iryna Gurevych, Mohammad Emtiyaz Khan <br/>
   _ICLR 2024_ [[pdf]](https://openreview.net/pdf?id=D7KJmfEDQP) <br/>
@@ -101,10 +105,6 @@ _EMNLP 2024_ [[pdf]](https://aclanthology.org/2024.emnlp-main.478.pdf)
 - Task-Oriented Document-Grounded Dialog Systems by HLTPR@RWTH for DSTC9 and DSTC10 <br/>
   David Thulke, **Nico Daheim**, Christian Dugast, Hermann Ney <br/>
   _IEEE/ACM Transactions on Audio, Speech, and Language Processing_ [[pdf]](https://arxiv.org/pdf/2304.07101.pdf) <br/>
-
-- Elastic Weight Removal for Faithful and Abstractive Dialogue Generation <br/>
-  **Nico Daheim**, Nouha Dziri, Mrinmaya Sachan, Iryna Gurevych, Edoardo M. Ponti <br/>
-  _preprint_ [[pdf]](https://arxiv.org/pdf/2303.17574.pdf) [[code]](https://github.com/ndaheim/faithful-dialogue) <br/>
   
 - Opportunities and Challenges in Neural Dialog Tutoring <br/>
   Jakub Macina<sup>*</sup>, **Nico Daheim**<sup>*</sup>, Lingzhi Wang, Tanmay Sinha, Manu Kapur, Iryna Gurevych, Mrinmaya Sachan <br/>
